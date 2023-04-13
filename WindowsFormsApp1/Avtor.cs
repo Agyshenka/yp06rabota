@@ -231,7 +231,6 @@ namespace WindowsFormsApp1
 
                 StartRow++;
 
-                //Write datagridview content
                 for (i = 0; i < dataGridView1.Rows.Count; i++)
                 {
                     for (j = 0; j < dataGridView1.Columns.Count; j++)
